@@ -10,8 +10,9 @@ border: 3px red solid
 b{
     color: rgb(244, 239, 239);
 }
-div{margin: 10%;
+div{margin: 12%;
     padding: 2%;
-    background-color: rgba(113, 125, 220, 0.922);
+    background-color: rgba(145, 152, 212, 0.922);
     border-radius: 12px;
+    border: 21px greenyellow solid;
 }
