@@ -1,6 +1,17 @@
-.main{
+.main{ background-color: blanchedalmond;
+    margin: 9%;
+    padding: 5%;
     display: block;
-border-radius: 2px;
+    /* display: contents; */
+border-radius: 7px;
 border: 3px red solid
 
+}
+b{
+    color: rgb(244, 239, 239);
+}
+div{margin: 10%;
+    padding: 2%;
+    background-color: rgba(113, 125, 220, 0.922);
+    border-radius: 12px;
 }
